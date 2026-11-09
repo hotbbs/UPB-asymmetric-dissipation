@@ -11,7 +11,7 @@ This repository contains the data and the numerical simulation codes associated 
 *   **`/codes`**: Contains the MATLAB scripts used for numerical simulations.
     *   `Fig2a_FB_vs_g.m`: Calculates the logarithmic second-order correlation function $\log_{10}[g^{(2)}(0)]$ in the $F_B-g$ parameter space.
     *   `Fig2b_kA_vs_kB.m`: Calculates the $\log_{10}[g^{(2)}(0)]$ map in the $\kappa_A-\kappa_B$ parameter space.
-    *   `Fig3_detuning_dependence.m`: Calculates and plots the dependence of $\log_{10}[g^{(2)}(0)]$ and the mean photon number $\log_{10} N_a $ on the normalized detuning $\Delta/\kappa_A$ for both Family 1 and Family 2.
+    *   `Fig3_detuning_dependence.m`: Calculates and plots the dependence of $\log_{10}[g^{(2)}(0)]$ and the mean photon number $\log_{10}N_a$ on the normalized detuning $\Delta/\kappa_A$ for both Family 1 and Family 2.
     *   *(Note: Fig. 1 is a schematic diagram and Fig. 4 is an energy-level diagram, both generated using illustration software, and thus do not require numerical computation codes.)*
 
 ## 💻 Computational Environment
