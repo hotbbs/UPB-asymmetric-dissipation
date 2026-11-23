@@ -31,4 +31,20 @@ The numerical simulations were carried out using MATLAB. The master equation for
 
 If you use these codes or data in your work, please cite our paper:
 
-> Z.-Q. Zhang, X.-A. Zhang, Y.-Z. Song, M.-L. Guo, and Y.-H. Zhou, "Unconventional Photon Blockade in Second-Order Nonlinearity Coupled Cavities with Asymmetric Dissipation", Physical Review A (submitted, 2026)
+> Z.-Q. Zhang, X.-A. Zhang, Y.-Z. Song, M.-L. Guo, and Y.-H. Zhou, "Unconventional Photon Blockade in Second-Order Nonlinearity Coupled Cavities with Asymmetric Dissipation", *Physical Review A* (under review, 2026). 
+> 
+> **Preprint**: [arXiv:2611.27200](https://arxiv.org/abs/2611.27200)
+
+For your convenience, you can also use the following BibTeX entry:
+
+```bibtex
+@article{Zhang2026UPB,
+  title = {Unconventional Photon Blockade in Second-Order Nonlinearity Coupled Cavities with Asymmetric Dissipation},
+  author = {Zhang, Zhi-Qiang and Zhang, Xiao-Ai and Song, Yan-Zhe and Guo, Meng-Li and Zhou, Yan-Hui},
+  journal = {Physical Review A},
+  year = {2026},
+  note = {Under review},
+  eprint = {2611.27200},
+  archivePrefix = {arXiv},
+  primaryClass = {quant-ph}
+}
