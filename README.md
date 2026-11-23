@@ -33,7 +33,8 @@ If you use these codes or data in your work, please cite our paper:
 
 > Z.-Q. Zhang, X.-A. Zhang, Y.-Z. Song, M.-L. Guo, and Y.-H. Zhou, "Unconventional Photon Blockade in Second-Order Nonlinearity Coupled Cavities with Asymmetric Dissipation", *Physical Review A* (under review, 2026). 
 > 
-> **Preprint**: [arXiv:2611.27200](https://arxiv.org/abs/2611.27200)
+> **arXiv Preprint**: [arXiv:2611.27200](https://arxiv.org/abs/2611.27200)
+> **DOI**: [10.48550/arXiv.2611.27200](https://doi.org/10.48550/arXiv.2611.27200)
 
 For your convenience, you can also use the following BibTeX entry:
 
@@ -46,5 +47,6 @@ For your convenience, you can also use the following BibTeX entry:
   note = {Under review},
   eprint = {2611.27200},
   archivePrefix = {arXiv},
-  primaryClass = {quant-ph}
+  primaryClass = {quant-ph},
+  doi = {10.48550/arXiv.2611.27200}
 }
